@@ -20,11 +20,11 @@ Chittela Akhila and Jangam Abhinav, Systolic Array-Based Image Binarization Usin
 APA Style (7th edition):  
 Chittela, A., & Jangam, A. (n.d.). Systolic array-based image binarization using Basys3 FPGA board [GitHub repository]. GitHub. https://github.com/ChittelaAkhila/Systolic-Array-based-Image-Binarization-using-Basys3-FPGA-Board  
 
-BibiTex:
-@misc{chittela2025systolic,
-  author       = {Chittela, Akhila and Jangam, Abhinav},
-  title        = {Systolic Array-Based Image Binarization Using Basys3 FPGA Board},
-  year         = {2025},
-  howpublished = {\url{https://github.com/ChittelaAkhila/Systolic-Array-based-Image-Binarization-using-Basys3-FPGA-Board}},
-  note         = {GitHub repository}
-}
+BibiTex:  
+@misc{chittela2025systolic,  
+  author       = {Chittela, Akhila and Jangam, Abhinav},  
+  title        = {Systolic Array-Based Image Binarization Using Basys3 FPGA Board},  
+  year         = {2025},  
+  howpublished = {\url{https://github.com/ChittelaAkhila/Systolic-Array-based-Image-Binarization-using-Basys3-FPGA-Board}},  
+  note         = {GitHub repository}  
+}  
