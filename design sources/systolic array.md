@@ -1,5 +1,4 @@
-Reference
-This project references RTL code and concepts from the following repository:
+This project references Systolic Array RTL code and concepts from the following repository:
 
 [2D Systolic Array Multiplier by tms4517](https://github.com/tms4517/2D-Systolic-Array-Multiplier/tree/main/rtl).
 
