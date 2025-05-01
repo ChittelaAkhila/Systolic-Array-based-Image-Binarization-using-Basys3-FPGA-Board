@@ -2,7 +2,6 @@
 // Refered from the book Pong P. Chu, ”FPGA Prototyping by Verilog Examples: Xilinx Spartan-3
  // Version”. Hoboken, NJ: Wiley-Interscience, 2008
 
-
 module mod_m_counter
 #(
     parameter N = 10,   // number of bits in counter, 10 to achieve 9600 baud-rate@100Mhz =>log(M)(base 2)
