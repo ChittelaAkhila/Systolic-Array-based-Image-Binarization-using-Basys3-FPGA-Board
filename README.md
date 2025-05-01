@@ -6,3 +6,24 @@ This projects' Systolic Array RTL code and concepts are referred from the follow
 [2D Systolic Array Multiplier by tms4517](https://github.com/tms4517/2D-Systolic-Array-Multiplier/tree/main/rtl).
 
 We acknowledge and appreciate the work shared in the original repository.
+
+We appreciate anyone interested in advancing this project and respectfully ask that you cite the following GitHub repository:
+
+"Systolic Array-Based Image Binarization Using Basys3 FPGA Board" by Chittela Akhila and Jangam Abhinav.
+
+Here are few formats of citing this:
+IEEE Style:
+Chittela Akhila and Jangam Abhinav, Systolic Array-Based Image Binarization Using Basys3 FPGA Board. GitHub repository, [Online]. Available: https://github.com/ChittelaAkhila/Systolic-Array-based-Image-Binarization-using-Basys3-FPGA-Board.
+
+
+APA Style (7th edition):
+Chittela, A., & Jangam, A. (n.d.). Systolic array-based image binarization using Basys3 FPGA board [GitHub repository]. GitHub. https://github.com/ChittelaAkhila/Systolic-Array-based-Image-Binarization-using-Basys3-FPGA-Board
+
+BibiTex:
+@misc{chittela2025systolic,
+  author       = {Chittela, Akhila and Jangam, Abhinav},
+  title        = {Systolic Array-Based Image Binarization Using Basys3 FPGA Board},
+  year         = {2025},
+  howpublished = {\url{https://github.com/ChittelaAkhila/Systolic-Array-based-Image-Binarization-using-Basys3-FPGA-Board}},
+  note         = {GitHub repository}
+}
