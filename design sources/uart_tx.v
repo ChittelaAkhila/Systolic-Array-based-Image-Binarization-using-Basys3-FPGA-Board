@@ -1,3 +1,7 @@
+//This module is used for transmitting bits via UART protocol 
+// Refered from the book Pong P. Chu, ”FPGA Prototyping by Verilog Examples: Xilinx Spartan-3
+ // Version”. Hoboken, NJ: Wiley-Interscience, 2008
+
 module uart_tx
 #(
     parameter DBIT = 8,    // Data bits (32 bits)
