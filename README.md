@@ -1,15 +1,15 @@
 # Systolic-Array-based-Image-Binarization-using-Basys3-FPGA-Board
 In this project, image binarization results comparing the matrix operations obtained via software based and hardware based (fpga board) are shown.
 
-This projects' Systolic Array RTL code and concepts are referred from the following repository:
+This projects' Systolic Array RTL code and concepts are referred from the following repository:  
 
-[2D Systolic Array Multiplier by tms4517](https://github.com/tms4517/2D-Systolic-Array-Multiplier/tree/main/rtl).
+[2D Systolic Array Multiplier by tms4517](https://github.com/tms4517/2D-Systolic-Array-Multiplier/tree/main/rtl).  
 
-We acknowledge and appreciate the work shared in the original repository.
+We acknowledge and appreciate the work shared in the original repository.  
 
-//////////////////////////////////////////////////////////////////////////
-// Authors Note
-//////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////  
+// Authors Note  
+//////////////////////////////////////////////////////////////////////////  
 We appreciate anyone interested in advancing this project and respectfully ask that you cite the following GitHub repository:
 "Systolic Array-Based Image Binarization Using Basys3 FPGA Board" by Chittela Akhila and Jangam Abhinav.
 
