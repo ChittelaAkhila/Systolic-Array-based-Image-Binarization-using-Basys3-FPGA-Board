@@ -10,8 +10,7 @@ We acknowledge and appreciate the work shared in the original repository.
 //////////////////////////////////////////////////////////////////////////  
 // Authors Note  
 //////////////////////////////////////////////////////////////////////////  
-We appreciate anyone interested in advancing this project and respectfully ask that you cite the following GitHub repository:  
-"Systolic Array-Based Image Binarization Using Basys3 FPGA Board" by Chittela Akhila and Jangam Abhinav.
+We appreciate anyone interested in advancing this project and respectfully ask that you cite this GitHub repository. 
 
 Here are few formats of citing this:  
 IEEE Style:  
